@@ -8,8 +8,7 @@
     <classes>
       <class name="testcase.AddPowerPlantCase">
         <methods>
-          <include name="add_power_plant"/>
-          <include name="add_device_manual"/>
+          <include name="exist_power_plant"/>
           <include name="initPage"/>
           <include name="initSource"/>
           <include name="shutdownSource"/>

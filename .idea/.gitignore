@@ -7,4 +7,4 @@
 /dataSources/
 /dataSources.local.xml
 # 忽略生成的文件夹target
-/target
+/target/
